@@ -1,0 +1,15 @@
+{
+  "name": "@w72/lodash",
+  "version": "1.0.0",
+  "description": "lodash alternative",
+  "exports": "./src/mod.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "w72e@qq.com",
+  "repository": "github:w72/lodash",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^20.10.5"
+  }
+}
